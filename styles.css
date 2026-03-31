@@ -12,9 +12,6 @@
 .linklist li a{
     height: 36px;
     width: 102px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     font-size: 24px;
     font-family: Georgia, Cambria, "Times New Roman", Times, serif
 }
