@@ -78,4 +78,9 @@ nav img {
         font-size: 18px;
     }
 
+    .linklist {
+        flex-direction: column;
+        gap: 10px;
+    }
+
 }
