@@ -79,6 +79,10 @@ nav img {
         font-size: 18px;
     }
 
+    .mobile-hidden {
+        display: none;
+    }
+
     .linklist {
         flex-direction: column;
         gap: 10px;
